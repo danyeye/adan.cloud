@@ -1,6 +1,6 @@
 ## 欢迎来到我的个人库
 
-正在搭建中，先来了解了解GitHub吧
+页面正在搭建中，先来了解了解GitHub吧
 
 ## GitHub简介
 
@@ -14,7 +14,7 @@
 
 2020年3月17日，Github宣布收购[npm](https://baike.baidu.com/item/npm/23807941)，GitHub现在已经保证npm将永远免费。 [4] 
 
-## 基本功能
+### 基本功能
 
 [![img](https://bkimg.cdn.bcebos.com/pic/0dd7912397dda1445da42dedbab7d0a20df486c4?x-bce-process=image/resize,m_lfit,w_220,limit_1)](https://baike.baidu.com/pic/Github/10145341/0/0dd7912397dda1445da42dedbab7d0a20df486c4?fr=lemma&ct=single)
 
@@ -36,11 +36,11 @@ GitHub项目本身自然而然的也在GitHub上进行托管，只不过在一�
 
 在GitHub，用户可以十分轻易地找到海量的[开源](https://baike.baidu.com/item/开源/20720669)代码。
 
-## 版本历史
+### 版本历史
 
 2012年12月24日，GitLab 4.0 RC2 发布，[开源](https://baike.baidu.com/item/开源/20720669)的 Github[克隆](https://baike.baidu.com/item/克隆)。
 
-## 内幕信息
+### 内幕信息
 
 Chris Wanstrath还向记者分享了关于GitHub的一些内幕信息︰
 
@@ -56,7 +56,7 @@ GitHub已经有了一组引人注目的特性，除了命令式的库[浏览器]
 
 GitHub尚未设定官方版本的发布日期，不过估计在三月底（GitHub已经上线，但只能通过邀请注册）。更多关于GitHub的信息可以参见GitHub官方网站或GitHub博客。通过GitHub进行代码管理的开源项目列表也已经可以查阅。
 
-## Windows应用
+### Windows应用
 
 [![GitHubA主界面](https://bkimg.cdn.bcebos.com/pic/21a4462309f790523315f59a07f3d7ca7bcbd508?x-bce-process=image/resize,m_lfit,w_220,limit_1)](https://baike.baidu.com/pic/Github/10145341/0/21a4462309f790523315f59a07f3d7ca7bcbd508?fr=lemma&ct=single)GitHubA主界面
 
@@ -64,7 +64,7 @@ GitHub 使用 git 分布式版本控制系统，而 git 最初是 LinusTorvalds 
 
 GitHub for [Windows](https://baike.baidu.com/item/Windows) 是一个 Metro 风格[应用程序](https://baike.baidu.com/item/应用程序)，[集成](https://baike.baidu.com/item/集成)了自包含版本的 Git，bash 命令行 shell，PowerShell 的 posh-git 扩展。GitHub 为 Windows 用户提供了一个基本的图形前端去处理大部分常用版本控制任务，可以创建版本库，向本地版本库递交补丁，在[本地](https://baike.baidu.com/item/本地)和[远程](https://baike.baidu.com/item/远程)版本库之间同步。[微软](https://baike.baidu.com/item/微软)也通过[CodePlex](https://baike.baidu.com/item/CodePlex)向开发者提供 git 版本控制系统，而 GitHub 创造了一个更具有吸引力的 Windows 版本。
 
-## 配置管理
+### 配置管理
 
 GitHub上已自动配置的[Mac](https://baike.baidu.com/item/Mac/173)[笔记本电脑](https://baike.baidu.com/item/笔记本电脑)，一个工具，可以转换设置[Linux](https://baike.baidu.com/item/Linux/27050)或Windows机器。
 
@@ -72,7 +72,7 @@ BOXEN是GitHub的自动化工具，设置和配置的Mac笔记本电脑[软件�
 
 BOXEN的基础上收集了大量的几十个木偶模块，使设置的各种软件，如卡桑德拉，MongoDB中，Java软件中，[Python](https://baike.baidu.com/item/Python/407313)和[Ruby](https://baike.baidu.com/item/Ruby/11419)开发中，节点，[JS](https://baike.baidu.com/item/JS/10687961)，[nginx](https://baike.baidu.com/item/nginx/3817705)的，[Skype](https://baike.baidu.com/item/Skype)公司，甚至[MINECRAFT](https://baike.baidu.com/item/MINECRAFT)。虽然机器上配备了一个预配置，每个用户都可以调整它的配置应有的作用。
 
-## 融资
+### 融资
 
 [![Github吉祥物Octocat](https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703d0ad4cbe08fa513d2697c5b1?x-bce-process=image/resize,m_lfit,w_220,limit_1)](https://baike.baidu.com/pic/Github/10145341/0/0db2c9ca3ae9e614f21fe7d2?fr=lemma&ct=single)Github吉祥物Octocat
 
